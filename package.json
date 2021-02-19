@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin",
+  "version": "1.0.0",
+  "description": "babel plugin",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "接水怪",
+  "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "babel-loader": "^8.2.2",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
